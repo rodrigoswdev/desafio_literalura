@@ -44,17 +44,25 @@ mvn spring-boot:run
 1 - Buscar libro por titulos
 
 2 - Listar libros registrados
+
 3 - Listar autores registrados
+
 4 - Listar autores vivos en un año
+
 5 - Listar libros por idioma
+
 0 - Salir
 
 ## Ejemplo de salida
 
 --------------LIBRO--------------
+
 Titulo: Don Quijote
+
 Autor: Cervantes Saavedra, Miguel de
+
 Idioma: es
+
 Número de descargas: 26848
 
 
